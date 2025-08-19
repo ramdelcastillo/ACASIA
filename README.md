@@ -1,6 +1,8 @@
 ## Analysis of Context-Aware Security for Insider Attacks in Smart Offices <em>(ACASIA)</em>
 <p align="justify">
 Source code and configuration files of <em>ACASIA</em>.<br>
+
+<a href="https://github.com/ramdelcastillo/ACASIA/blob/main/ACASIA%20User%20Manual.pdf"><strong>User Manual</strong></a>
 </p>
 Created by:<br> Jose Mari Del Castillo <br>
 Gideon Andrew Malia <br>
