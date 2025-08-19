@@ -1,4 +1,4 @@
-## Analysis of Context-Aware Security for Insider Attacks in Smart Offices <em>(ACASIA)</em>
+## Thesis: Analysis of Context-Aware Security for Insider Attacks in Smart Offices <em>(ACASIA)</em>
 <p align="justify">
 Source code and configuration files of <em>ACASIA</em>.<br>
 
