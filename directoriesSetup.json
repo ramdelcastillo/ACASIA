@@ -1,0 +1,16 @@
+{
+  "logs": "DataCollection/DataCollectionLogs/logs.json",
+  "logging": "DataCollection/DataCollectionLogs/logging.json",
+  "data_record_logs": "DataCollection/DataCollectionLogs/dataRecordLogs.json",
+  "break_tracker": "DataCollection/DataCollectionLogs/breakTracker.json",
+  "computer_id": "DataCollection/DataCollectionLogs/computerID.json",
+  "logging_reset": "DataCollection/DataCollectionLogs/resetLogs/loggingReset.json",
+  "break_tracker_reset": "DataCollection/DataCollectionLogs/resetLogs/breakTrackerReset.json",
+  "snap_ual": "DataCollection/URRS-UALs/snapUal.json",
+  "ual": "DataCollection/URRS-UALs/ual.json",
+  "previous_logs": "DataCollection/DataCollectionLogs/previousCollectionRunLogs",
+  "data_preprocessing_config": "DataPreprocessing/config.json",
+  "data_sets_for_labelling":"DatasetLabelling/dataSetsToBeLabelled",
+  "data_sets_labelled": "DatasetLabelling/dataSetsLabelled",
+  "labeller": "DatasetLabelling/labeller.py"
+}

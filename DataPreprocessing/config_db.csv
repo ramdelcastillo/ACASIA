@@ -1,0 +1,12 @@
+﻿User Name,User Role,Shift Start,Shift End
+AS1,Administrative Staff,7:00:00,14:00:00
+AS2,Administrative Staff,7:00:00,14:00:00
+AS3,Administrative Staff,7:00:00,14:00:00
+AS4,Administrative Staff,7:00:00,14:00:00
+Manager1,Manager,7:00:00,14:00:00
+AS5,Administrative Staff,14:00:00,21:00:00
+AS6,Administrative Staff,14:00:00,21:00:00
+AS7,Administrative Staff,14:00:00,21:00:00
+AS8,Administrative Staff,14:00:00,21:00:00
+Manager2,Manager,14:00:00,21:00:00
+Director1,Director,7:00:00,21:00:00

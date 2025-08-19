@@ -1,0 +1,20 @@
+{
+    "Room A": [
+        "AS2",
+        "AS1"
+    ],
+    "Room B": [
+        "AS5",
+        "AS8",
+        "AS6",
+        "Manager2"
+    ],
+    "Room C": [
+        "Manager1",
+        "Director1",
+        "AS7",
+        "AS3",
+        "AS4"
+    ],
+    "Room D": []
+}

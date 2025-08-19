@@ -1,0 +1,25 @@
+{
+    "logs": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\logs.json",
+    "logging": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\logging.json",
+    "data_record_logs": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\dataRecordLogs.json",
+    "break_tracker": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\breakTracker.json",
+    "computer_id": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\computerID.json",
+    "logging_reset": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\resetLogs\\loggingReset.json",
+    "break_tracker_reset": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\resetLogs\\breakTrackerReset.json",
+    "snap_ual": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\URRS-UALs\\snapUal.json",
+    "ual": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\URRS-UALs\\ual.json",
+    "previous_logs": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataCollection\\DataCollectionLogs\\previousCollectionRunLogs",
+    "data_preprocessing_config": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DataPreprocessing\\config.json",
+    "data_sets_for_labelling": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DatasetLabelling\\dataSetsToBeLabelled",
+    "data_sets_labelled": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DatasetLabelling\\dataSetsLabelled",
+    "labeller": "C:\\Users\\delca\\OneDrive\\Documents\\Projects\\ACASIA\\DatasetLabelling\\labeller.py"
+}
+
+
+
+
+
+
+
+
+

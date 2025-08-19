@@ -1,0 +1,988 @@
+{
+    "Administrative Staff": {
+        "AS1": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS2": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS3": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS4": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS5": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS6": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS7": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "AS8": {
+            "Authorized":{
+                "Administrative Staff": {
+                    "OPEN NON-CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0
+                },
+                "Administrative Staff M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Administrative Staff WO M-Req": {
+                    "OPEN CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Administrative Staff WO D-Req": {
+                    "OPEN CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Total": {
+            "AS1 Authorized Attempts": 0,
+            "AS1 Unauthorized Attempts": 0,
+            "AS2 Authorized Attempts": 0,
+            "AS2 Unauthorized Attempts": 0,
+            "AS3 Authorized Attempts": 0,
+            "AS3 Unauthorized Attempts": 0,
+            "AS4 Authorized Attempts": 0,
+            "AS4 Unauthorized Attempts": 0,
+            "AS5 Authorized Attempts": 0,
+            "AS5 Unauthorized Attempts": 0,
+            "AS6 Authorized Attempts": 0,
+            "AS6 Unauthorized Attempts": 0,
+            "AS7 Authorized Attempts": 0,
+            "AS7 Unauthorized Attempts": 0,
+            "AS8 Authorized Attempts": 0,
+            "AS8 Unauthorized Attempts": 0,
+            "AS1 Total Attempts": 0,
+            "AS2 Total Attempts": 0,
+            "AS3 Total Attempts": 0,
+            "AS4 Total Attempts": 0,
+            "AS5 Total Attempts": 0,
+            "AS6 Total Attempts": 0,
+            "AS7 Total Attempts": 0,
+            "AS8 Total Attempts": 0
+        }
+    },
+    "Manager": {
+        "Manager1": {
+            "Authorized":{
+                "Manager": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Manager D-Req": {
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Manager WO D-Req": {
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Manager2": {
+            "Authorized":{
+                "Manager": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "Manager D-Req": {
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "Manager WO D-Req": {
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0
+                },
+                "OUT OF SHIFT": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Total": {
+            "Manager1 Authorized Attempts": 0,
+            "Manager1 Unauthorized Attempts": 0,
+            "Manager2 Authorized Attempts": 0,
+            "Manager2 Unauthorized Attempts": 0,
+            "Manager1 Total Attempts": 0,
+            "Manager2 Total Attempts": 0
+        }
+    },
+    "Director": {
+        "Director1": {
+            "Authorized":{
+                "Director": {
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Unauthorized":{
+                "OUT OF SHIFT":{
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                },
+                "ROOM MISMATCH":{
+                    "OPEN NON-CF FILE": 0,
+                    "OPEN CF FILE": 0,
+                    "MODIFY NON-CF FILE": 0,
+                    "MODIFY CF FILE": 0,
+                    "DELETE NON-CF FILE": 0,
+                    "DELETE CF FILE": 0,
+                    "MOVE NON-CF FILE TO INTERNAL": 0,
+                    "MOVE CF FILE TO INTERNAL": 0,
+                    "MOVE NON-CF FILE TO OTHERS": 0,
+                    "MOVE CF FILE TO OTHERS": 0,
+                    "MOVE NON-CF FILE TO EXTERNAL": 0,
+                    "MOVE CF FILE TO EXTERNAL": 0,
+                    "COPY NON-CF FILE TO INTERNAL": 0,
+                    "COPY CF FILE TO INTERNAL": 0,
+                    "COPY NON-CF FILE TO OTHERS": 0,
+                    "COPY CF FILE TO OTHERS": 0,
+                    "COPY NON-CF FILE TO EXTERNAL": 0,
+                    "COPY CF FILE TO EXTERNAL": 0
+                }
+            },
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Total": {
+            "Director1 Authorized Attempts": 0,
+            "Director1 Unauthorized Attempts": 0,
+            "Director1 Total Attempts": 0
+        }
+    },
+    "Overall": {
+        "Administrative Staff": {
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Manager": {
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Director": {
+            "Total Authorized Attempts": 0,
+            "Total Unauthorized Attempts": 0,
+            "Total Attempts": 0
+        },
+        "Total Authorized Attempts": 0,
+        "Total Unauthorized Attempts": 0,
+        "Total Attempts": 0
+    }
+}
